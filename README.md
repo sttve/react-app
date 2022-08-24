@@ -36,11 +36,18 @@ Inicie o servidor
 ```bash
   npm run start
 ```
+## 📒 Stack utilizada
+
+**Front-end:** React, CSS
+
+**Back-end:** Node.js
+
 ## ⚛️ Referências Usadas ao Longo do Repositório
 
  - [React Importing and Exporting Components](https://beta.reactjs.org/learn/importing-and-exporting-components)
  - [React to a Website](https://beta.reactjs.org/learn/add-react-to-a-website)
-
+ 
+## 🐾 Octocat ฅ^•ﻌ•^ฅ
 ![octocat-1661301844388](https://user-images.githubusercontent.com/92957417/186290601-4112ce29-1539-438e-9e81-40869f8db9e6.png)
 
 ## 💼 LinkedIn | E-Mail
